@@ -1,6 +1,6 @@
 # statistics_related_stuff
 
-This repository is mainly some of my mini experiment on statistic methods that I am curioused about. This actually help me to understand the method better, as we could see the result directly from using the method on some toy dataset or environment. 
+This repository is mainly some of my mini experiment on statistic methods that I am curioused about. This actually help me to understand the method better, as the result can be seen directly from using the method on some toy dataset or environment. 
 
 Hope you enjoy!
 
